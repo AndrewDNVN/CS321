@@ -6,7 +6,9 @@ Use runner.m to do all actions it calls both Gauss_Naive.m and Gauss_pivoted.m a
 Tested with n set to 10000.
 
   The Naive Gaussian Elemination had a larger normilized value.
+  
   The Naive Gaussian normlized value:		 1.009412e+04 
+  
   The Pivoted Gaussian normlized value:	 1.009412e+04 
 
 n is initally set to three, and the output formating is set to long.
