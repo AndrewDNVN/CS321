@@ -3,7 +3,7 @@
 % CS 321
 % Runner code
 format long
-n = 10000;
+n = 3;
 A = randn(n,n);
 
 %our goal result for Gaussian functions
